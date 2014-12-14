@@ -13,6 +13,7 @@
   "license": "WTFPL",
   "homepage": "https://github.com/FrontendWTF/aws-cognito-identity",
   "dependencies": {
+    "aws": "FrontendWTF/aws#~0.3.0",
     "google-auth": "FrontendWTF/google-auth#~0.1.0",
     "facebook-auth": "FrontendWTF/facebook-auth#~0.1.0"
   }
